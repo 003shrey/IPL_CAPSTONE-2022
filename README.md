@@ -1,12 +1,12 @@
-# IPL 2022 Capstone Project 🏏
+# IPL 2022 Capstone Project
 
 A comprehensive data analysis project exploring IPL (Indian Premier League) 2022 match-level data to derive meaningful insights and understand match outcomes, player performances, and team dynamics.
 
-## 📊 Project Overview
+## Project Overview
 
 This project performs an in-depth analysis of the IPL 2022 season using Python data science libraries. It explores various aspects of the tournament including team performances, player statistics, venue analysis, and match outcomes to uncover interesting patterns and insights.
 
-## ✨ Features
+## Features
 
 ### Analysis Performed
 
@@ -35,7 +35,7 @@ This project performs an in-depth analysis of the IPL 2022 season using Python d
    - Individual performance records
    - Scoring patterns across innings
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python 3.x**
 - **Pandas** - Data manipulation and analysis
@@ -43,11 +43,11 @@ This project performs an in-depth analysis of the IPL 2022 season using Python d
 - **Matplotlib** - Data visualization
 - **Seaborn** - Statistical data visualization
 
-## 📋 Prerequisites
+## Prerequisites
 
 Make sure you have Python 3.x installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
 
-## 🚀 Installation
+## Installation
 
 1. Clone the repository:
 ```bash
@@ -65,7 +65,7 @@ Alternatively, install packages individually:
 pip install numpy pandas matplotlib seaborn jupyter
 ```
 
-## 💻 Usage
+## Usage
 
 1. Open the Jupyter Notebook:
 ```bash
@@ -78,7 +78,7 @@ jupyter notebook IPL_CAPSTONE.ipynb
    - Generate visualizations
    - Derive insights from the analysis
 
-## 📁 Dataset
+## Dataset
 
 The project uses IPL 2022 match-level data containing:
 - Match details (date, venue, teams)
@@ -97,7 +97,7 @@ The project uses IPL 2022 match-level data containing:
 - `player_of_the_match`, `top_scorer`, `highscore`
 - `best_bowling`, `best_bowling_figure`
 
-## 🔍 Key Questions Answered
+## Key Questions Answered
 
 1. **Which team won the most matches in IPL 2022?**
 2. **What are the toss decision trends?**
@@ -108,7 +108,7 @@ The project uses IPL 2022 match-level data containing:
 7. **Which bowler had the best bowling figures?**
 8. **How do teams typically win (by runs vs wickets)?**
 
-## 📈 Sample Visualizations
+## Sample Visualizations
 
 The notebook includes various visualizations such as:
 - Bar charts for team performance comparison
@@ -117,21 +117,21 @@ The notebook includes various visualizations such as:
 - Statistical plots for player performances
 - Venue analysis charts
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👤 Author
+## Author
 
 **Shreyansh Yadav**
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-## ⭐ Show your support
+## Show your support
 
-Give a ⭐️ if you like this project!
+Give a star if you like this project!
 
 ---
 

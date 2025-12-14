@@ -57,12 +57,12 @@ cd IPL_CAPSTONE-2022
 
 2. Install required packages:
 ```bash
-pip install numpy pandas seaborn matplotlib
+pip install -r requirements.txt
 ```
 
-Or use a requirements file:
+Alternatively, install packages individually:
 ```bash
-pip install -r requirements.txt
+pip install numpy pandas matplotlib seaborn jupyter
 ```
 
 ## 💻 Usage
